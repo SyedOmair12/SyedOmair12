@@ -24,8 +24,8 @@
 <h2> About me: </h2>
 <li>- 🔭 I'm a Data Analysis Professional</li>
 <li>- 🌱 I have experience in data preprocessing, data visualization, forecasting, and statistical analysis</li>
-<li>  📊 Check out my data analysis projects in my [portfolio](https://github.com/SyedOmair12) </li>
-<li>  📈 Data storytelling enthusiast, transforming data into meaningful narratives </li>
+<li>- 📊 Check out my data analysis projects in my [portfolio](https://github.com/SyedOmair12) </li>
+<li>- 📈 Data storytelling enthusiast, transforming data into meaningful narratives </li>
 <li>- 👯 Connect with me on [LinkedIn](https://www.linkedin.com/in/syedomairmaqdoom/)</li>
 <li>- 🧑‍💻 Check out my coding skills on [HackerRank](https://www.hackerrank.com/syedomair2001?hr_r=1).</li>
 
